@@ -2,6 +2,8 @@
 Welcome!
 Here are the supplementary files and notes for  ***A systematic assessment of MHC Ⅱ peptide presentation prediction methods***
 
+**Supplementary Table 1** summarizes the utilities of existing 18 methods for MHC-peptide-binding prediction, divided into three categories: scoring functions, consensus methods and machine learning approaches. 
+
 **Supplementary Data 1** lists the positive and negative datasets used for benchmarking. 
 
 **Supplementary Table 2** shows the details of the prediction outputs of each method.
