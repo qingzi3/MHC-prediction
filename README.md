@@ -18,7 +18,7 @@ Here are the supplementary files and notes for  ***A systematic assessment of MH
 
 **Supplementary S8** For the eleven servers, we have tested the prediction using peptides binding with 20 HLA- II allotypes in independent databases. Due the training datasets and algorithms used, not all methods work for all peptides ranging from 11 to 19 aa long binding with all 20 HLA- II allotypes.
 
-Methods are able to predict in All 20 HLA-Ⅱ allotypes: NetMHCpan-3.2，NetMHCpan-4.0，NetMHCpan-4.1，MHCnuggets；The prediction range of other servers are as follows: 
+Methods are able to predict in All 20 HLA-Ⅱ allotypes: NetMHCIIpan-3.2，NetMHCIIpan-4.0，NetMHCIIpan-4.1，MHCnuggets；The prediction range of other servers are as follows: 
 
 1.	**SMM-align(12~18mers)**: HLA-DPA101:03-DPB102:01,HLA-DPA102:01-DPB101:01,HLA-DQA103:01-DQB103:02,HLA-DRB103:01,HLA-DRB104:01,HLA-DRB115:01,HLA-DRB501:01.
 2.	**BERTMHC(11~19mers)**: HLA-DPA101:03-DPB102:01,HLA-DPA101:03-DPB103:01,HLA-DPA101:03-DPB104:01,HLA-DPA101:03-DPB104:01,HLA-DPA101:03-DPB104:02,HLA-DPA102:01-DPB101:01,HLA-DPA102:01-DPB109:01,HLA-DPA102:01-DPB110:01,HLA-DPA102:01-DPB113:01,HLA-DPA102:01-DPB114:01,HLA-DPA102:02-DPB105:01,HLA-DQA103:01-DQB103:02.
